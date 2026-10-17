@@ -3,7 +3,7 @@
 **An independent working paper by u/lucky_3838**  
 17 October 2026 · 54 pages · English
 
-**[Read the full paper (PDF)](BM_lap_restraint_paper.pdf)**
+**[Read the full paper (PDF)](Geometric_Reconstruction_and_Mechanical_Analysis_of_the_BM_Clamshell_Lap_Restraint.pdf)**
 
 How does the B&M Hyper-family clamshell lap restraint lock, release and transfer loads? This study reconstructs its internal geometry from publicly available drawing captures and photographs, then develops mechanical models around the reconstructed components.
 
